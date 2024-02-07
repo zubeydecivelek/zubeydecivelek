@@ -1,6 +1,6 @@
 # Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=A020F0&width=600&height=50&lines=I'm+Z%C3%BCbeyde+Civelek!;A+Senior+Computer+Engineering+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=A020F0&width=600&height=50&lines=I'm+Z%C3%BCbeyde+Civelek!;I'm+A+Senior+Computer+Engineering+Student)](https://git.io/typing-svg)
 
 I'm a Computer Engineering student at Hacettepe University, Ankara, Turkey, passionate about technology and innovation. Passionate about mobile and web development, GUI development, satellite technologies, machine learning, embedded systems, computer vision, and programming in Python, Java, and C++. I'm always eager to explore new fields and challenges.
 
