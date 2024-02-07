@@ -35,28 +35,25 @@ Feel free to explore my repositories and reach out if you have any questions or 
 
 ## 🚀 Projects
 
-## SPS Spill GUI
+### SPS Spill GUI
 Developed a user-friendly GUI for SPS Spill real-time software at CERN. [View on Cern Document Server](https://cds.cern.ch/record/2875220)
 
-## Ground Control Station for Model Satellite
+### Ground Control Station for Model Satellite
 Competed in Teknofest, leading the communication and ground station subsystems. [View on GitHub](https://github.com/zubeydecivelek/Tharsis6A-GCS-Windows)
 
-## CERN WEBFEST
+### CERN WEBFEST
 Developed a React.js web game, finishing 2nd. [View on GitHub](https://github.com/zubeydecivelek/Cern-Webfest-2023)
 
-## ACTWITHY Android App
+### ACTWITHY Android App
 An app for organizing daily activities. [View on GitHub](https://github.com/zubeydecivelek/ActWithy)
 
-## ICES4HU Web Application
-Online assessment web application for Hacettepe University. [View on GitHub](https://github.com/zubeydecivelek/ICES4HU)
-
-## Image Classification with Convolutional Neural Networks
+### Image Classification with Convolutional Neural Networks
 Classifies microorganisms using CNN models. [View on GitHub](https://github.com/zubeydecivelek/Image-Classification-with-Convolutional-Neural-Networks)
 
-## Distracted Drivers Classification
+### Distracted Drivers Classification
 ML model for detecting driver distractions. [View on GitHub](https://github.com/akifozgur/distracted-drivers-classification)
 
-### Other Projects
+#### Other Projects
 You can find my other projects in the repository section.
 
 ## 📫 How to reach me
