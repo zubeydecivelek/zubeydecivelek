@@ -1,6 +1,8 @@
-# Hi there, I'm Zübeyde Civelek! 👋
+# Hi there 👋
 
-I'm a Computer Engineering student at Hacettepe University, Ankara, Turkey, passionate about technology and innovation. With a knack for mobile and web development, GUI design, and satellite technologies, I'm always eager to explore new fields and challenges.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=58A6FF&width=435&height=45&lines=Hello%2C+I'm+Z%C3%BCbeyde+Civelek!;A+Passionate+Developer+and+Creator)](https://git.io/typing-svg)
+
+I'm a Computer Engineering student at Hacettepe University, Ankara, Turkey, passionate about technology and innovation. Passionate about mobile and web development, GUI development, satellite technologies, machine learning, embedded systems, computer vision, and programming in Python, Java, and C++. I'm always eager to explore new fields and challenges.
 
 ## 💼 Experience
 
@@ -34,10 +36,10 @@ Feel free to explore my repositories and reach out if you have any questions or 
 ## 🚀 Projects
 
 ## SPS Spill GUI
-Developed a user-friendly GUI for SPS Spill real-time software at CERN. [View on Cern Document Server]([https://github.com/zubeydecivelek/SPS-Spill-GUI](https://cds.cern.ch/record/2875220))
+Developed a user-friendly GUI for SPS Spill real-time software at CERN. [View on Cern Document Server](https://cds.cern.ch/record/2875220)
 
 ## Ground Control Station for Model Satellite
-Competed in Teknofest, leading the communication and ground station subsystems. [View on GitHub]([https://github.com/zubeydecivelek/Ground-Control-Station](https://github.com/zubeydecivelek/Tharsis-s-GCS))
+Competed in Teknofest, leading the communication and ground station subsystems. [View on GitHub](https://github.com/zubeydecivelek/Tharsis6A-GCS-Windows)
 
 ## CERN WEBFEST
 Developed a React.js web game, finishing 2nd. [View on GitHub](https://github.com/zubeydecivelek/Cern-Webfest-2023)
