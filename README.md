@@ -2,10 +2,6 @@
 
 I'm a Computer Engineering student at Hacettepe University, Ankara, Turkey, passionate about technology and innovation. With a knack for mobile and web development, GUI design, and satellite technologies, I'm always eager to explore new fields and challenges.
 
-## 🌱 What I'm focusing on
-
-Currently, I am expanding my knowledge in Python, Java, C++, and mobile application development, while also exploring the realms of machine learning and artificial intelligence.
-
 ## 💼 Experience
 
 - **Planning and Optimization Intern** at Vodafone, Ankara (Feb 2024 - Present)
@@ -13,11 +9,6 @@ Currently, I am expanding my knowledge in Python, Java, C++, and mobile applicat
 - **CERN Summer Student**, Geneva, Switzerland (June - Sep 2023)
 - **Full Stack Developer (Part-Time)** at GrakGrak Cargo, Ankara (Oct 2022 - Mar 2023)
 - Plus more roles that have shaped my skills in technology and engineering.
-
-## 🎓 Education
-
-- **BEng in Computer Engineering** - Hacettepe University, Ankara (2020 - 2024)
-  - GPA: 3.27, focusing on software engineering, machine learning, data management, and more.
 
 ## 💻 Skills & Programming Languages
 
@@ -55,12 +46,12 @@ ML model for detecting driver distractions. [View on GitHub](https://github.com/
 You can find my other projects in the repository section.
 
 ## 📫 How to reach me
-
-📧 **Email**: zubeydeecivelek@gmail.com
-
-🔗 **LinkedIn**: [zübeyde-civelek](https://tr.linkedin.com/in/zübeyde-civelek-b2a403196)
-
-🐱 **GitHub**: [@zubeydecivelek](https://github.com/zubeydecivelek/)
+<a href="https://tr.linkedin.com/in/zübeyde-civelek-b2a403196" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+&emsp;
+<a href="mailto:zubeydeecivelek@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+&emsp;
+<a href="https://github.com/zubeydecivelek" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></a>
+</p>
 
 Let's connect and explore the possibilities of technology together!
 
