@@ -53,6 +53,9 @@ Classifies microorganisms using CNN models. [View on GitHub](https://github.com/
 ### Distracted Drivers Classification
 ML model for detecting driver distractions. [View on GitHub](https://github.com/akifozgur/distracted-drivers-classification)
 
+### Embedded Projects
+A collection of projects designed and developed for my Embedded Systems course, showcasing practical applications in embedded engineering. [View on Github](https://github.com/zubeydecivelek/Embedded-Projects)
+
 #### Other Projects
 You can find my other projects in the repository section.
 
