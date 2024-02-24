@@ -1,6 +1,6 @@
 # Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=A020F0&width=600&height=50&lines=I'm+Z%C3%BCbeyde+Civelek!;I'm+a+Senior+Computer+Engineering+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=A020F0&width=600&height=50&lines=I'm+Z%C3%BCbeyde+Civelek!;I'm+a+Fourth+Year+Computer+Engineering+Student)](https://git.io/typing-svg)
 
 I'm a Computer Engineering student at Hacettepe University, Ankara, Turkey, passionate about technology and innovation. Passionate about mobile and web development, GUI development, satellite technologies, machine learning, embedded systems, computer vision, and programming in Python, Java, and C++. I'm always eager to explore new fields and challenges.
 
@@ -12,7 +12,7 @@ I'm a Computer Engineering student at Hacettepe University, Ankara, Turkey, pass
 - **Full Stack Developer (Part-Time)** at GrakGrak Cargo, Ankara (Oct 2022 - Mar 2023)
 - Plus more roles that have shaped my skills in technology and engineering.
 
-## 👨‍💻 Programming Languages
+## 👨‍💻 Programming Languages and Technologies
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
