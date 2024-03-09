@@ -6,12 +6,14 @@ I'm a Computer Engineering student at Hacettepe University, Ankara, Turkey, pass
 
 ## 💼 Experience
 
-- **Planning and Optimization Intern** at Vodafone, Ankara (Feb 2024 - Present)
-- **C++ Qt Developer (Part-Time)** at Cey Defense, Ankara (Dec 2023 - Feb 2024)
+- **Planning and Optimization Intern** at Vodafone, Ankara, Türkiye (Feb 2024 - Present)
+- **C++ Qt Developer Intern** at Cey Defense, Ankara, Türkiye (Dec 2023 - Feb 2024)
 - **CERN Summer Student**, Geneva, Switzerland (June - Sep 2023)
-- **Full Stack Developer (Part-Time)** at GrakGrak Cargo, Ankara (Oct 2022 - Mar 2023)
-- Plus more roles that have shaped my skills in technology and engineering.
-
+- **Turksat Model Satellite Competition 2023 Finalist**, Aksaray, Türkiye (Apr 2023)
+- **Flutter Developer (Full-Stack Focus) (Part-Time)** at GrakGrak Cargo, Ankara, Türkiye (Oct 2022 - Mar 2023)
+- **Turksat Model Satellite Competition 2022 Finalist**, Aksaray, Türkiye (Aug 2022)
+- **Mobile App Development Intern** at GrakGrak Cargo, Ankara, Türkiye (June 2022 - Sep 2022)
+  
 ## 👨‍💻 Programming Languages and Technologies
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
