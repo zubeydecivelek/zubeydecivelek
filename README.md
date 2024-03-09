@@ -56,6 +56,9 @@ ML model for detecting driver distractions. [View on GitHub](https://github.com/
 ### Embedded Projects
 A collection of projects designed and developed for my Embedded Systems course, showcasing practical applications in embedded engineering. [View on Github](https://github.com/zubeydecivelek/Embedded-Projects)
 
+### Flower Classification with Neural Networks 
+Implemented a convolutional multi-layer neural network to classify flower images.  [View on GitHub](https://github.com/zubeydecivelek/Neural-Network-Implementation)
+
 #### Other Projects
 You can find my other projects in the repository section.
 
